@@ -12,9 +12,6 @@ Pour s'abonner, entrez n'importe quelle URL Vinted. Le bot déterminera automati
 
 ![notif](./examples/notif.png)
 
-## Distrobot.fr
-
-Bien que le bot open source fonctionne parfaitement et soit très rapide, sa configuration et son installation peut être laborieuse. C'est pour cela que nous vous proposons également notre service https://distrobot.fr :
 
 |                                             | **Bot open source** | **Distrobot** |
 |---------------------------------------------|---------------------|---------------|
